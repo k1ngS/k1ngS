@@ -9,8 +9,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=k1ngs&bg_color=0d1117&color=84E3FF&line=1E90FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=k1ngs&bg_color=0d1117&color=84E3FF&line=1E90FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=k1ngs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
