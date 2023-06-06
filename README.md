@@ -6,6 +6,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=k1ngs&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=ff91a4&text_color=ffffff&bg_color=0d1117" alt="Marcos Antônio github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1ngs&layout=compact&hide_border=true&title_color=1E90FF&text_color=ff91a4&bg_color=0d1117" />
 </div>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=k1ngS&bg_color=0d1117&color=84E3FF&line=1E90FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
