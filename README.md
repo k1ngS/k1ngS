@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Marcos Beltrão and I'm a Fullstack Developer, from Acervo de Jogos.</p>
+<p align="center">My name is Marcos Beltrão and I'm a Fullstack Developer.</p>
 
 ###
 
