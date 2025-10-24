@@ -34,6 +34,8 @@
   <img src="https://cdn.simpleicons.org/ruby/CC342D" height="40" alt="ruby logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/rubyonrails/CC0000" height="40" alt="rails logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/rust/CE422B" height="40" alt="rust logo"  />
 </div>
 
 ###
