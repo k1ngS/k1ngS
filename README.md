@@ -48,3 +48,12 @@
 </div>
 
 ###
+
+<h2 align="center">Connect with me:</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.k1ngs.dev" target="blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="marcos-k1ngs-portfolio" /></a>
+  <a href="https://linkedin.com/in/marcos-k1ngs" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="marcos-k1ngs-linkedin" /></a>
+</div>
